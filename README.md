@@ -1,7 +1,5 @@
 # My-portfolio
 
-# Portfolio
-
 # 🚀 Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience in web development.
