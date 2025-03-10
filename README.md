@@ -5,7 +5,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience in web development.
 
 ## 🌟 Live Demo
-🔗 [View Portfolio](https://myportfolio-chi-lime.vercel.app/)
+🔗 [View Portfolio](https://my-portfolio-git-main-sathwik-ms-projects.vercel.app/)
 
 ## 📂 Project Structure
 ```
@@ -23,7 +23,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - HTML5
 - CSS3
 - JavaScript
-- [Vercel](https://myportfolio-chi-lime.vercel.app/) for hosting
+- [Vercel](https://my-portfolio-git-main-sathwik-ms-projects.vercel.app/) for hosting
 
 ## 🚀 Deployment
 This project is deployed using **Vercel**. Follow these steps to deploy your own version:
